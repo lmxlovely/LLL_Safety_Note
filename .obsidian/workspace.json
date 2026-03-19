@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "93427b581d793d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "f536ee747839d790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca13b492185249c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文笔记/LLM/LLM Safety/paper/intent-form/Embedding Drift Safety Collapse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Embedding Drift Safety Collapse"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d04d9ee085f33ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "9231bd4763838212",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "886f0313c2864bea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "724f584c4063cc38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ed1e1a65518e5f83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2934361e571d1c87",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7898d13cef6c0d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e9fe30600033189",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "9e61e492332c2530",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b15ad4ab9980f6c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "938d1297b6f73d28",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c36235607367c3db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "ca13b492185249c5",
+  "lastOpenFiles": [
+    "论文笔记/LLM/LLM.md",
+    "论文笔记/_概念/深度学习基础/Expected Calibration Error.md",
+    "论文笔记/_概念/深度学习基础/Embedding.md",
+    "论文笔记/_概念/数据集/Civil Comments.md",
+    "论文笔记/_概念/LLM安全/Directional Drift.md",
+    "论文笔记/_概念/LLM安全/Alignment.md",
+    "论文笔记/LLM/LLM Safety/LLM Safety.md",
+    "论文笔记/LLM/LLM Safety/paper/paper.md",
+    "论文笔记/LLM/LLM Safety/paper/intent-form/assets/assets.md",
+    "论文笔记/LLM/LLM Safety/paper/intent-form/Embedding Drift Safety Collapse.md",
+    "论文笔记/LLM/LLM Safety/paper/intent-form/intent-form.md",
+    "论文笔记/_待整理/_待整理.md",
+    "论文笔记/论文笔记.md",
+    "论文笔记/_概念/深度学习基础/深度学习基础.md",
+    "论文笔记/_概念/模型/模型.md",
+    "论文笔记/_概念/数据集/数据集.md",
+    "论文笔记/_概念/LLM安全/LLM安全.md",
+    "论文笔记/_概念/0-待分类/0-待分类.md",
+    "论文笔记/_概念/_概念.md",
+    "论文笔记/_概念/LLM安全/Instruction Tuning.md",
+    "论文笔记/_概念/LLM安全/Jailbreak Detection.md",
+    "论文笔记/_概念/深度学习基础/Miscalibration.md",
+    "论文笔记/_概念/模型/Instruction-Tuned Model.md",
+    "论文笔记/_概念/LLM安全/Subspace Drift.md",
+    "论文笔记/_概念/LLM安全/Gaussian Drift.md",
+    "论文笔记/_概念/深度学习基础/Unit Normalization.md",
+    "论文笔记/_概念/模型",
+    "论文笔记/_概念/数据集",
+    "论文笔记/_概念/深度学习基础",
+    "论文笔记/_概念/LLM安全",
+    "论文笔记/LLM/LLM Safety/paper/intent-form/assets",
+    "论文笔记/LLM/LLM Safety/paper/intent-form",
+    "论文笔记/LLM/LLM Safety/paper",
+    "论文笔记/LLM/LLM Safety",
+    "论文笔记/LLM",
+    "论文笔记/_概念/0-待分类"
+  ]
+}
