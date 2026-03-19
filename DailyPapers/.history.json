@@ -1,0 +1,152 @@
+[
+  {
+    "id": "2603.12681",
+    "date": "2026-03-19",
+    "title": "Colluding LoRA: A Composite Attack on LLM Safety Alignment"
+  },
+  {
+    "id": "2602.16835",
+    "date": "2026-03-19",
+    "title": "NeST: Neuron Selective Tuning for LLM Safety"
+  },
+  {
+    "id": "2603.17915",
+    "date": "2026-03-19",
+    "title": "IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia"
+  },
+  {
+    "id": "2603.12298",
+    "date": "2026-03-19",
+    "title": "Global Evolutionary Steering: Refining Activation Steering Control via Cross-Layer Consistency"
+  },
+  {
+    "id": "2603.11388",
+    "date": "2026-03-19",
+    "title": "Deactivating Refusal Triggers: Understanding and Mitigating Overrefusal in Safety Alignment"
+  },
+  {
+    "id": "2603.10091",
+    "date": "2026-03-19",
+    "title": "Multi-Stream Perturbation Attack: Breaking Safety Alignment of Thinking LLMs Through Concurrent Task Interference"
+  },
+  {
+    "id": "2603.08127",
+    "date": "2026-03-19",
+    "title": "EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery"
+  },
+  {
+    "id": "2603.15619",
+    "date": "2026-03-19",
+    "title": "Mixture-of-Depths Attention"
+  },
+  {
+    "id": "2502.11880",
+    "date": "2026-03-19",
+    "title": "Bitnet.cpp: Efficient Edge Inference for Ternary LLMs"
+  },
+  {
+    "id": "2504.19413",
+    "date": "2026-03-19",
+    "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"
+  },
+  {
+    "id": "2507.03724",
+    "date": "2026-03-19",
+    "title": "MemOS: A Memory OS for AI System"
+  },
+  {
+    "id": "2309.06180",
+    "date": "2026-03-19",
+    "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention"
+  },
+  {
+    "id": "2502.06855",
+    "date": "2026-03-19",
+    "title": "Self-Supervised Prompt Optimization"
+  },
+  {
+    "id": "2403.13372",
+    "date": "2026-03-19",
+    "title": "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models"
+  },
+  {
+    "id": "2410.05779",
+    "date": "2026-03-19",
+    "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+  },
+  {
+    "id": "2407.17789",
+    "date": "2026-03-19",
+    "title": "Very Large-Scale Multi-Agent Simulation in AgentScope"
+  },
+  {
+    "id": "2508.16279",
+    "date": "2026-03-19",
+    "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications"
+  },
+  {
+    "id": "2603.17199",
+    "date": "2026-03-19",
+    "title": "Catching rationalization in the act: detecting motivated reasoning before and after CoT via activation probing"
+  },
+  {
+    "id": "2603.16210",
+    "date": "2026-03-19",
+    "title": "MOSAIC: Composable Safety Alignment with Modular Control Tokens"
+  },
+  {
+    "id": "2603.16192",
+    "date": "2026-03-19",
+    "title": "Structured Semantic Cloaking for Jailbreak Attacks on Large Language Models"
+  },
+  {
+    "id": "2603.13420",
+    "date": "2026-03-19",
+    "title": "Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache"
+  },
+  {
+    "id": "2603.10243",
+    "date": "2026-03-19",
+    "title": "GR-SAP: Generative Replay for Safety Alignment Preservation during Fine-Tuning"
+  },
+  {
+    "id": "2603.10080v2",
+    "date": "2026-03-19",
+    "title": "Amnesia: Adversarial Semantic Layer Specific Activation Steering in Large Language Models"
+  },
+  {
+    "id": "2603.14473",
+    "date": "2026-03-19",
+    "title": "AI Can Learn Scientific Taste"
+  },
+  {
+    "id": "2603.13594",
+    "date": "2026-03-19",
+    "title": "EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings"
+  },
+  {
+    "id": "2603.15031",
+    "date": "2026-03-19",
+    "title": "Attention Residuals"
+  },
+  {
+    "id": "2511.11793",
+    "date": "2026-03-19",
+    "title": "MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling"
+  },
+  {
+    "id": "2505.21497",
+    "date": "2026-03-19",
+    "title": "Paper2Poster: Towards Multimodal Poster Automation from Scientific\n  Papers"
+  },
+  {
+    "id": "2407.16741",
+    "date": "2026-03-19",
+    "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents"
+  },
+  {
+    "id": "2501.13956",
+    "date": "2026-03-19",
+    "title": "Zep: A Temporal Knowledge Graph Architecture for Agent Memory"
+  }
+]
