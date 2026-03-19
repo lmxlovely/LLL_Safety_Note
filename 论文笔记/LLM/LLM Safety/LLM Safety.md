@@ -10,7 +10,7 @@ generated_by: dailypaper-skills
 
 ## 子目录
 
-- [[论文笔记/LLM/LLM Safety/paper/paper|paper]] · 0 篇笔记 · 1 个子目录
+- [[论文笔记/LLM/LLM Safety/paper/paper|paper]] · 1 篇笔记 · 1 个子目录
 
 ## 说明
 

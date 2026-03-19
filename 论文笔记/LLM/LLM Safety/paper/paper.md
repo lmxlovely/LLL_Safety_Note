@@ -10,7 +10,11 @@ generated_by: dailypaper-skills
 
 ## 子目录
 
-- [[论文笔记/LLM/LLM Safety/paper/intent-form/intent-form|intent-form]] · 1 篇笔记 · 1 个子目录
+- [[论文笔记/LLM/LLM Safety/paper/intent-form/intent-form|intent-form]] · 2 篇笔记 · 1 个子目录
+
+## 当前目录笔记
+
+- [[论文笔记/LLM/LLM Safety/paper/Separability Without Stability|Separability Without Stability]]
 
 ## 说明
 
